@@ -1,12 +1,52 @@
-# React + Vite
+# React + Vite Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal **React + Vite** setup with **TailwindCSS** and **component-based architecture**, ideal for modern web applications and quick development.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Component-based structure for modularity  
+- TailwindCSS for rapid styling  
+- Hot Module Replacement (HMR) enabled  
+- ESLint configured for clean code  
+- Easy to extend and maintain  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies
+
+- React (JavaScript)  
+- Vite  
+- TailwindCSS  
+- ESLint  
+
+---
+
+## 📦 Setup
+
+```bash
+npm install
+npm run dev
+
+
+
+React + Vite Projesi
+
+Minimal bir React + Vite kurulumu, TailwindCSS ve component tabanlı mimari ile modern web uygulamaları için hızlı geliştirme sağlar.
+
+🚀 Özellikler
+
+Modüler component tabanlı yapı
+
+Hızlı stil için TailwindCSS
+
+Hot Module Replacement (HMR) aktif
+
+ESLint ile temiz kod
+
+Kolay genişletilebilir ve bakım yapılabilir
+
+📦 Kurulum
+npm install
+npm run dev
