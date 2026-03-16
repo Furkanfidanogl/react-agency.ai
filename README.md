@@ -16,7 +16,7 @@ A minimal **React + Vite** setup with **TailwindCSS** and **component-based arch
 
 ## 🛠️ Technologies
 
-- React (JavaScript)  
+- React (JavaScript / TypeScript optional)  
 - Vite  
 - TailwindCSS  
 - ESLint  
@@ -26,27 +26,5 @@ A minimal **React + Vite** setup with **TailwindCSS** and **component-based arch
 ## 📦 Setup
 
 ```bash
-npm install
-npm run dev
-
-
-
-React + Vite Projesi
-
-Minimal bir React + Vite kurulumu, TailwindCSS ve component tabanlı mimari ile modern web uygulamaları için hızlı geliştirme sağlar.
-
-🚀 Özellikler
-
-Modüler component tabanlı yapı
-
-Hızlı stil için TailwindCSS
-
-Hot Module Replacement (HMR) aktif
-
-ESLint ile temiz kod
-
-Kolay genişletilebilir ve bakım yapılabilir
-
-📦 Kurulum
 npm install
 npm run dev
